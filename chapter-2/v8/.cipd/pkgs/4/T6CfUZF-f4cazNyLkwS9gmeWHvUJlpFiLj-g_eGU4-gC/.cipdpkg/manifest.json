@@ -1,0 +1,94 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/rbe/client/mac-amd64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "CHANGELOG.md",
+      "size": 88215,
+      "hash": "umSPBS4aN0q25a_koaZR30bjeX94M_ewloWnK1MJp9AC"
+    },
+    {
+      "name": "LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "NOTICE",
+      "size": 6808,
+      "hash": "qRjF8Ls1dY-YIpgTfxjowuLiK6UBpTgLGxHkOosrhJ8C"
+    },
+    {
+      "name": "bootstrap",
+      "size": 20025792,
+      "executable": true,
+      "hash": "U-7BJQdhexMRDRwgw2JRBo508LabcK1K1KkvXs2t4xMC"
+    },
+    {
+      "name": "dumpstats",
+      "size": 13346896,
+      "executable": true,
+      "hash": "ZBJ8WmDy076wrDZlSSAU94VFPaPqF6KNn79JPJXq--IC"
+    },
+    {
+      "name": "logdump",
+      "size": 12672576,
+      "executable": true,
+      "hash": "bKgef91EdYaWLGixYLINiKVK72FLxfZXqJ2uI5OWQYwC"
+    },
+    {
+      "name": "reclientreport",
+      "size": 12752496,
+      "executable": true,
+      "hash": "RR-GouwNZSMxhx1SWZGbkdOBIcGMODezbWIyjSDXV6YC"
+    },
+    {
+      "name": "remotetool",
+      "size": 16555792,
+      "executable": true,
+      "hash": "6LNJJACMJpaUX-FoIn2Z4Gy221mO_2aBNpqEdxgYyT8C"
+    },
+    {
+      "name": "reproxy",
+      "size": 46326872,
+      "executable": true,
+      "hash": "xIxZg-R2PoHQM1VlpMQROTvGDsOL1T9SZAwRU6lT1XUC"
+    },
+    {
+      "name": "reproxystatus",
+      "size": 12275648,
+      "executable": true,
+      "hash": "-GISfkwSSvEUzxB1J340QQ2sOo94_XYHfFJvLSFVurcC"
+    },
+    {
+      "name": "rewrapper",
+      "size": 12746032,
+      "executable": true,
+      "hash": "tOYfHzdQQf6az1GlSnU217rfXLt-OFuOX0TpjiYPpEgC"
+    },
+    {
+      "name": "rpl2cloudtrace",
+      "size": 16227536,
+      "executable": true,
+      "hash": "wKYYaBqEWMo5D3C9qYohKBvsIWxodRN6n6f8mpPtW-MC"
+    },
+    {
+      "name": "rpl2trace",
+      "size": 12696912,
+      "executable": true,
+      "hash": "XRJni7jVy0Vi4BVD_vOKq-eWtNGA6h17v4KMIfqyolwC"
+    },
+    {
+      "name": "scandeps_server",
+      "size": 11214256,
+      "executable": true,
+      "hash": "U8WnWXyrH66DNXyXWnpwseokjkJMwQ565ksSvroxwQcC"
+    },
+    {
+      "name": "scandeps_server.sym",
+      "size": 5360453,
+      "hash": "bNrMn0A9qLPn4uq8oLHwIUIDdhMEYj_I20cnM8eeBlAC"
+    }
+  ]
+}
